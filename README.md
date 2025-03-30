@@ -1,1 +1,1 @@
-# MYNTRA_SALES
+**This dashboard is made to track Myntra sales in a simple way. It shows total sales, order count, product categories, and customer locations. Filters are added to check sales by date, age group, and product type, making it easy to find details. Charts and graphs help to see trends and compare sales over time. It also helps to find best-selling products and understand customer choices. The dashboard is easy to use and navigate. Everything is built in Excel, so no extra tools are needed. It makes sales analysis faster and helps in better decisions.**
